@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/navigation_ebook"
+        android:title="Ebooks"
+        android:icon="@drawable/download"/>
+
+    <item android:id="@+id/navigation_attendance"
+        android:icon="@drawable/attendance"
+        android:title="Attendance"/>
+
+    <item android:id="@+id/navigation_marks"
+        android:icon="@drawable/result"
+        android:title="Marks"/>
+
+    <item android:id="@+id/navigation_classtimetable"
+        android:icon="@drawable/classtimetable"
+        android:title="Class Timetable"/>
+
+    <item android:id="@+id/navigation_examtimetable"
+        android:icon="@drawable/examtimetable"
+        android:title="Exam Timetable"/>
+
+    <item android:id="@+id/navigation_theme"
+        android:title="Themes"
+        android:icon="@drawable/painting"/>
+
+    <item android:id="@+id/navigation_share"
+        android:title="Share"
+        android:icon="@drawable/share"/>
+
+    <item android:id="@+id/navigation_rates"
+        android:title="Rate Us"
+        android:icon="@drawable/rating"/>
+
+    <item android:id="@+id/navigation_developer"
+        android:title="Developers"
+        android:icon="@drawable/development"/>
+
+</menu>
