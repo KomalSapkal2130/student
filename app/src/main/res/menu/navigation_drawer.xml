@@ -3,7 +3,7 @@
 
     <item android:id="@+id/navigation_ebook"
         android:title="Ebooks"
-        android:icon="@drawable/download"/>
+        android:icon="@drawable/book"/>
 
     <item android:id="@+id/navigation_attendance"
         android:icon="@drawable/attendance"
@@ -23,7 +23,11 @@
 
     <item android:id="@+id/navigation_theme"
         android:title="Themes"
-        android:icon="@drawable/painting"/>
+        android:icon="@drawable/theme"/>
+
+    <item android:id="@+id/navigation_color"
+        android:title="Color"
+        android:icon="@drawable/ic_color"/>
 
     <item android:id="@+id/navigation_share"
         android:title="Share"
@@ -35,6 +39,6 @@
 
     <item android:id="@+id/navigation_developer"
         android:title="Developers"
-        android:icon="@drawable/development"/>
+        android:icon="@drawable/smartphone"/>
 
 </menu>

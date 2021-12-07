@@ -14,7 +14,7 @@
         android:icon="@drawable/gallery"
         android:title="Gallery"/>
     <item android:id="@+id/navigation_about"
-        android:icon="@drawable/aboutus"
+        android:icon="@drawable/about"
         android:title="About"/>
 
 </menu>

@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#238764"
+    android:background="#786590"
     tools:context=".ui.gallery.galleryFragment">
 
     <!-- TODO: Update blank fragment layout -->

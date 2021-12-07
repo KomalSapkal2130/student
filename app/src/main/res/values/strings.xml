@@ -9,5 +9,13 @@
     <string name="start">Start</string>
     <string name="close">Close</string>
 
+    <string-array name="theme">
+
+        <item>System Default</item>
+        <item>Dark</item>
+        <item>Light</item>
+
+
+    </string-array>
 
 </resources>

@@ -1,17 +1,16 @@
 package edu.ritindia.student.ui.gallery;
 
 import android.os.Bundle;
+
+import androidx.fragment.app.Fragment;
+
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import androidx.fragment.app.Fragment;
-
 import edu.ritindia.student.R;
 
-
-public class galleryFragment extends Fragment {
-
+public class galleryFragment extends Fragment{
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
